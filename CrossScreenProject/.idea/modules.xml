@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CrossScreen/CrossScreen.iml" filepath="$PROJECT_DIR$/CrossScreen/CrossScreen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CrossScreenProject.iml" filepath="$PROJECT_DIR$/CrossScreenProject.iml" />
+    </modules>
+  </component>
+</project>
+

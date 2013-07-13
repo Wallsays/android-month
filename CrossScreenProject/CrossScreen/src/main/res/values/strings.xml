@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cross Screen</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="about_title">About</string>
+    <string name="about_text">        У лукоморья дуб зелёный;\n
+        Златая цепь на дубе том:\n
+        И днём и ночью <b>кот учёный</b>\n
+        Всё ходит по цепи кругом;\n
+        Идёт <b>направо</b> - песнь заводит,\n<b>Налево</b> - сказку говорит.</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_chooser">Choose a number</string>
+
+</resources>

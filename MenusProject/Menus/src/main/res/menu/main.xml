@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:id="@+id/action_settings"
+            android:title="@string/action_settings"
+            android:orderInCategory="100"
+            android:showAsAction="never" />
+
+    <item
+            android:id="@+id/action_show_hide_ab"
+            android:orderInCategory="100"
+            android:showAsAction="never"
+            android:title="@string/action_show_hide_ab"/>
+
+    <item
+            android:id="@+id/action_dog"
+            android:orderInCategory="100"
+            android:showAsAction="never"
+            android:title="@string/action_dog"/>
+
+    <item
+            android:id="@+id/action_cat"
+            android:orderInCategory="100"
+            android:showAsAction="never"
+            android:title="@string/action_cat"/>
+
+    <item
+            android:id="@+id/action_kitten"
+            android:orderInCategory="100"
+            android:showAsAction="never"
+            android:title="@string/action_kitten"/>
+
+</menu>

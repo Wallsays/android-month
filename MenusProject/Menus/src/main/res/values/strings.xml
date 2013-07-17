@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Menus</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_dog">Dog</string>
+    <string name="action_cat">Cat</string>
+    <string name="action_kitten">Kitten</string>
+    <string name="action_show_hide_ab">Show/Hide Action bar</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
